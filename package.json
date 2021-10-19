@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-typo3-with-composition-api",
+  "version": "1.0.0",
+  "description": "My superior TYPO3 Nuxt.js project",
+  "author": "thomasv",
+  "private": true,
+  "scripts": {
+    "dev": " nuxt",
+    "build": "nuxt build",
+    "start": " nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/composition-api": "^0.29.3",
+    "nuxt": "^2.0.0",
+    "nuxt-typo3": "latest"
+  }
+}
